@@ -5,4 +5,4 @@ This repository contains code that was used to generate the results and figures 
 
 Most figures are created in the file upload_oscillation_paper_figures.py. The other .py files are used to generate the data to create these figures. These data have also been uploaded to this repository. The .ipynb files are used to generate the robustness and amplitude analyses described in the supplemental info.
 
-Any questions can be directed to Ofer Kimchi at okimchi@g.harvard.edu
+Any questions can be directed to Ofer Kimchi at okimchi@princeton.edu
